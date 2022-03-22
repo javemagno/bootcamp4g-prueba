@@ -1,0 +1,10 @@
+h1 {
+color: blue;   
+    }
+.titulo {
+color: green;
+}
+#titulo-id {
+color: red;
+font-size: 18px; 
+}

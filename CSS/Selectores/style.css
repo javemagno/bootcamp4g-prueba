@@ -1,0 +1,22 @@
+* {
+    color: blue;
+}
+h1 span {
+    color: red;
+}
+.elemento_padre {
+    background-color: lightgreen;
+}
+.elemento_padre > p {
+    color:black;
+}
+.parrafos p + p {
+    color: blue;
+    background-color: yellow;
+}
+
+.subtitulo {
+    color:red;
+    font-size: 20px;
+    font-weight: 400;
+}
