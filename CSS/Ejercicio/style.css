@@ -1,0 +1,24 @@
+body {
+    color:blue;
+    background-color: #CCFFCC;
+    font-family: Cambria;
+}
+h1 {
+    color:red;
+    font-family:Verdana;
+}
+h2 {
+    color:darkred;
+    font-family:Verdana;
+}
+ul span {
+    color:green;
+}
+
+b {
+    font-size: 20px;
+}
+i {
+    background-color: black;
+    color: white;
+}
