@@ -1,0 +1,58 @@
+body {
+    font-size: 10px;
+}
+
+h1 {
+    font-size: 3em;
+    background-color: yellow;
+    margin-left: 30px;
+}
+a {
+    background-color:green;
+}
+header {
+    background-color: blue;
+}
+
+div {
+    display: inline-block;
+}
+
+.caja1 {
+    box-sizing: border-box;
+    background-color:lightgreen;
+    width: 500px;
+    height: 200px;
+    margin: 50px;
+    padding:1em;
+    border: 5px solid blue;
+    box-shadow: 10px 15px gold;
+}
+
+.caja2 {
+    box-sizing: border-box;
+    background-color: lightsalmon;
+    width: 400px;
+    height: 200px;
+    padding:1em;
+    border: 5px dashed red;
+    margin-left:40px;
+}
+
+.caja3 {
+    background-color: orange;
+    width: 500px;
+    height: 500px;
+    background-image: url(https://pbs.twimg.com/profile_images/1154406293660143616/g3Hf8K9b_400x400.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+
+
+
+
+
+
