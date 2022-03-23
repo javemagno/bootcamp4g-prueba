@@ -1,0 +1,21 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    font-size: 10px;
+}
+
+h1 {
+    font-size: 1em;
+    font-size: 3rem;
+}
+
+.container {
+    font-size: 20px;
+}
+.container h2 {
+    font-size: 3em;
+    font-size: 10px;
+    margin-top: 2em;
+}
