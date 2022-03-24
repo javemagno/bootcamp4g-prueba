@@ -1,0 +1,44 @@
+h1 {
+    width:470px;
+    margin-left: 400px;
+}
+
+ul {
+    background-color:rgb(255,255,0);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.vineta-titulo {
+    color:gold;
+    
+}
+
+span {
+    color:rgb(255,0,0);
+}
+
+b {
+    color:#000000;
+}
+
+.gratis {
+    font-family: Arial;
+}
+
+h2 {
+    color:rgb(50.2%,0%,50.2%);
+    font-size:20px;
+}
+
+.lista1 {
+    color:#008000;
+}
+
+.lista2 {
+    color: #00F;
+}
+
+div {
+    margin-left:40px;
+}
